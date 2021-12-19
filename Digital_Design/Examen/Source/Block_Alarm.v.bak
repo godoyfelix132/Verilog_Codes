@@ -1,0 +1,10 @@
+module Block_Alarm
+(
+	input clk,
+	input reset,
+	input enable,
+	input Set_clock,
+	input MIN,
+	input HR,
+
+);

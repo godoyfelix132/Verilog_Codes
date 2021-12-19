@@ -1,0 +1,11 @@
+module Control
+(
+	input hour_unit,
+	input min_unit,
+	input seg_unit,
+	input hour_tens,
+	input min_tens,
+	input seg_tens,
+	
+	output 
+);
